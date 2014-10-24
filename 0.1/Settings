@@ -1,0 +1,1 @@
+CREATE TABLE settings (account varchar (255), weight int, height int, birth_date varchar(255), auto_cue_flag int, auto_cue_period int, language varchar(255), height_unit varchar(10), length_unit varchar(10), display varchar(10), temperature_unit varchar(1));
